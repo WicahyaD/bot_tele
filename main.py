@@ -1,4 +1,4 @@
-api = "api dari bot tele"
+api = "5369867413:AAHa5w9tHt7ZHJxUChySedtO4sRcb0aKi8Y"
 
 from  telebot import *
 import pafy
