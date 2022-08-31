@@ -1,9 +1,8 @@
-api = "5369867413:AAHa5w9tHt7ZHJxUChySedtO4sRcb0aKi8Y"
-
 from  telebot import *
 import pafy
 import os
 
+api = "5369867413:AAHa5w9tHt7ZHJxUChySedtO4sRcb0aKi8Y"
 bot = TeleBot(api)
 
 @bot.message_handler(commandsk=["mp4"])
